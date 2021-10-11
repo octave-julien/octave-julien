@@ -1,11 +1,9 @@
 Historien, enseignant à l'université Paris 1 Panthéon-Sorbonne.
-- 👋 Hi, I’m @octave-julien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-octave-julien/octave-julien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mes activités de recherche et d'enseignement portent sur l'utilisation de l'informatique en histoire, l'histoire culturelle du Moyen Âge et plus particulièrement les recueils manuscrits des XIIIe-XVe s. en France et en Angleterre, que j'étudie avec l'approche de la codicologie quantitative.
+
+Les projets hébergés ici sont liés à mes activités d'enseignement et à mes recherches personnelles.
+
+Sur les réseaux sociaux :
+- https://twitter.com/twojulien
+- https://univ-paris1.academia.edu/OctaveJulien
